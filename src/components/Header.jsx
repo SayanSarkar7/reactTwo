@@ -28,6 +28,7 @@ const Header = () => {
         p={'0'}
         h={'10'}
         w={'10'}
+        zIndex={'overlay'}
         borderRadius={'full'}
         onClick={onOpen}
       >

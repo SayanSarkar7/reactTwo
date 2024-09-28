@@ -9,7 +9,7 @@ export const ColorModeSwitcher = props => {
   return (
     <IconButton
       
-      
+      zIndex={'overlay'}
       variant="ghost"
       color="current"
       pos={"fixed"}
